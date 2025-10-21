@@ -1,5 +1,5 @@
 
-A tool, a tool, a tool ye shall find.
+Simplistic passcode generator with user input modifications and AES strength passcode randomization.
 
 Uploaded code descriptions:
 
